@@ -21,9 +21,9 @@
     background-image: url(https://i.postimg.cc/B69fRn3D/road.jpg);
     position: absolute;
     bottom: -117px;
+    z-index: 1;
     left: 0;
     right: 0;
-    z-index: 1;
     background-repeat: repeat-x;
     animation: highway 5s linear infinite;
 }
