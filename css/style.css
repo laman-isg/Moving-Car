@@ -24,7 +24,7 @@
     z-index: 1;
     left: 0;
     right: 0;
-    background-repeat: repeat-x;
+    background-repeat: inherit;
     animation: highway 5s linear infinite;
 }
 
